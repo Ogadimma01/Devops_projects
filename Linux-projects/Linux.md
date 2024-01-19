@@ -9,7 +9,7 @@
   
   * Options can be used with sudo to do a variety of things.
     e.g *sudo -l* allows the user to know which permissions they are allowed access to
-  * the image below shows that I can do evverything as sudonew.
+  * the image below shows that I can do everything as sudo.
 
 
 ![new photo](Images/sudo-l.png)
