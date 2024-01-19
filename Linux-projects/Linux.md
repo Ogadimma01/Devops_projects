@@ -38,8 +38,7 @@ the image below shows that I am currently in my home directory.
 
 
 
-In the image below, I use the pwd command to locate my current working directory which id not my home directory.
-
+In the image below, I use the pwd command to locate my current working directory which is not my home directory.
 
 ![new image](Images/pwdc.png)
 
