@@ -14,4 +14,13 @@
 
 ![new photo](Images/sudo-l.png)
 
+
+*sudo -s* takes the user straight from the home directory into the root directory in which they can perform all tasks which require sudo privileges.
+![new image](Images/superuser.png)
+
+Sometimes we can forget to type in 'sudo' in a sudo command. Typing sudo followed by double exclamation marks executes the previous command using sudo privileges
+Syntax: *sudo !!*
+
+![new photo](sudo.png)
+
   
