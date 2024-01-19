@@ -27,4 +27,24 @@ Syntax: *sudo !!*
 
 
 
+## pwd command
+* pwd allows the user to print the name of the current directory which may also be refered to a the working directory.
+* The pwd command tell the user where they currently are on the computer's directory structure.
+* pwd is important because it is easy to get lost in the maze of the file structure so it helps the user find exactly where they are currently working.
+the image below shows that I am currently in my home directory.
+
+
+![new photo](Images/pwd.png}
+
+In the image below, I use the pwd command to locate my current working directory which id not my home directory.
+
+
+![new image](Images/pwdc.png)
+
+
+* The -P flag and the -L flag can be used to show the physcal and the logical paths respectively.
+* the two flags are usually of the same value but can be different if the path includes sim linkls.
+
+
+
   
