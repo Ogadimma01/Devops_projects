@@ -1,2 +1,2 @@
 # File Manipulation
-![sudo command](Images/sudo-command.png)
+![new photo](Images/sudo-command.png)
