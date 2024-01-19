@@ -36,6 +36,8 @@ the image below shows that I am currently in my home directory.
 
 ![new photo](Images/pwd.png}
 
+
+
 In the image below, I use the pwd command to locate my current working directory which id not my home directory.
 
 
