@@ -4,4 +4,7 @@
 * The sudo command enables the user to perform tasks which require administrative or root permissions.
 * The user is promted for their account password following the command.
 * Once access is granted, the user is allowed 15 minutes accesss after whcich they are again prompted for their password.
+* Syntax: sudo (command) e.g sudo (apt update) i.e *sudo apt update*
 ![new photo](Images/sudo-command.png)
+  * Options can be used with sudo to do a variety of things.
+    e.g *sudo -l*
