@@ -6,5 +6,10 @@
 * Once access is granted, the user is allowed 15 minutes accesss after whcich they are again prompted for their password.
 * Syntax: sudo (command) e.g sudo (apt update) i.e *sudo apt update*
 ![new photo](Images/sudo-command.png)
+  
   * Options can be used with sudo to do a variety of things.
-    e.g *sudo -l*
+    e.g *sudo -l* allows the user to know which permissions they are allowed access to
+  * the image below shows that I can do evverything as sudonew image](Images/sudo -l.png)
+ 
+  ![
+  
