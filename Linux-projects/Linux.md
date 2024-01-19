@@ -11,5 +11,5 @@
     e.g *sudo -l* allows the user to know which permissions they are allowed access to
   * the image below shows that I can do evverything as sudonew.
  
-  
+  ![new image](sudo-l.png)
   
