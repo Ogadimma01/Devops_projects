@@ -34,7 +34,7 @@ Syntax: *sudo !!*
 the image below shows that I am currently in my home directory.
 
 
-![new photo](Images/pwd.png}
+![new photo](Images/pwd.png)
 
 
 
