@@ -43,7 +43,16 @@ In the image below, I use the pwd command to locate my current working directory
 
 
 * The -P flag and the -L flag can be used to show the physcal and the logical paths respectively.
-* the two flags are usually of the same value but can be different if the path includes sim linkls.
+* the two flags are usually of the same value but can be different if the path includes sim links.
+
+
+# cd command
+* The cd command allows the user tochange from one directory to another in order to navigate through the maze of files and directories in linux.
+* the syntax may involve either the full path or the directory name depending on the current working directory.
+  Syntax: $cd path
+* in the image below, I have changed directory from my home directory to another directory in my home direcory
+
+![]new image](sudocommand.png)  
 
 
 
