@@ -66,10 +66,6 @@ Syntax: $cd .. takes the user one directory up
 ![new image](Images/cd.._command.png)
 
 
-Syntax: $cd - takes the user back to their previous folder whereas $cd always moves them back to their home directory
-
-![new image](Images/cd-command.png)
-
 Syntax: $cd / takes the user from their home direcrory straight into root.
 
 
