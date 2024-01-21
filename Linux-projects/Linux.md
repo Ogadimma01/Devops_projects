@@ -50,9 +50,10 @@ In the image below, I use the pwd command to locate my current working directory
 * The cd command allows the user tochange from one directory to another in order to navigate through the maze of files and directories in linux.
 * the syntax may involve either the full path or the directory name depending on the current working directory.
   Syntax: $cd path
-* in the image below, I have changed directory from my home directory to another directory in my home direcory
+* in the image below, I have changed directory from my home directory to another directory in my home dirctory.
 
-![new image](cdcommand.png)  
+
+  ![new photo](cdcommand.png)
 
 
 
