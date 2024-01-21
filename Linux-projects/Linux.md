@@ -76,6 +76,12 @@ Syntax: $cd - takes the user back to the previous directory. repeating the comma
 
 
 ![new image](Images/cdprevious.png)
+
+
+
+# The ls command
+
+* ls stands for "list storage". It returns a list of all the files and directories in the user's current working directory.
   
   
 
