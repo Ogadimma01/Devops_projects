@@ -63,7 +63,7 @@ Syntax: $cd
 
 Syntax: cd .. takes the user one directory up
 
-![new image](cd.._command.png)
+![new image](Images/cd.._command.png)
 
 
 Syntax: cd - takes the user back to their previous folder
