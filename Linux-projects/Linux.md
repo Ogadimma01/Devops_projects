@@ -61,12 +61,12 @@ Syntax: $cd
   ![new image](Images/cd_cmmandalone.png)
 ### Some Shortcuts
 
-Syntax: cd .. takes the user one directory up
+Syntax: $cd .. takes the user one directory up
 
 ![new image](Images/cd.._command.png)
 
 
-Syntax: cd - takes the user back to their previous folder
+Syntax: $cd - takes the user back to their previous folder whereas $cd always moves them back to their home directory
 
 ![new image](Images/cd-command.png)
 
@@ -76,7 +76,7 @@ Syntax: $cd / takes the user from their home direcrory straight into root.
 ![new image](Images/cdrootandhome.png)
 
 
-Syntax: $cd always takes the user back to home directory.
+Syntax: $cd - takes the user back to the previous directory. repeating the command immediately after restores the direcroy
 
 
 ![new image](Images/cdprevious.png)
