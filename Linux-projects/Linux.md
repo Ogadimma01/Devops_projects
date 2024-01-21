@@ -52,7 +52,7 @@ In the image below, I use the pwd command to locate my current working directory
   Syntax: $cd path
 * in the image below, I have changed directory from my home directory to another directory in my home dirctory.
 
-
+![new image](Images/cd_command.png)
   
 
 
