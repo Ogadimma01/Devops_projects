@@ -78,6 +78,8 @@ Syntax: $cd / takes the user from their home direcrory straight into root.
 
 Syntax: $cd always takes the user back to home directory.
 
+
+![new image](Images/cdprevious.png)
   
   
 
