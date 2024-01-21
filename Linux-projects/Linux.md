@@ -53,7 +53,7 @@ In the image below, I use the pwd command to locate my current working directory
 * in the image below, I have changed directory from my home directory to another directory in my home dirctory.
 
 
-  ![new photo](cdcommand.png)
+  ![new photo](cd_command.png)
 
 
 
