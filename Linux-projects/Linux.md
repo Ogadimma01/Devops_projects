@@ -59,7 +59,11 @@ In the image below, I use the pwd command to locate my current working directory
 Syntax: $cd
 
   ![new image](Images/cd_cmmandalone.png)
+### Some Shortcuts
 
+Syntax: cd .. takes the user one directory up
+
+![new image](cd.._command.png)
   
   
 
