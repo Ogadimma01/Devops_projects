@@ -55,6 +55,7 @@ In the image below, I use the pwd command to locate my current working directory
 ![new image](Images/cd_command.png)
 
 * Running the cd command alone takes the user back to their home folder
+Syntax: $cd
 
   ![new image](Images/cd_cmmandalone.png)
 
