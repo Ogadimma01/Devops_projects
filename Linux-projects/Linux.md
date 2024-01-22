@@ -113,7 +113,12 @@ CTRL+H is the equivalent of ls -a command on the file manager.
 
 ![photo](Images/ls-amanagera.png)
 
+ls -l, ls-a and ls -h can be combined in a single command, syntax: $ls-lah
+
+![image](Images/ls-lah)
+
 Syntax: $ls -R lists all files in the subdirecrories
+
 ![photo](Images/ls-R.png))
   
   
