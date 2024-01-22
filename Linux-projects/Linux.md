@@ -90,6 +90,10 @@ Syntax: $ls
 Syntax: $ls -l returns a long listing with a lot more information on the contents of the current working directory.
 
 ![image](Images/ls-lscommand.png)
+
+Syntax: $ls -ls (another directory) returns the list of files and directories in the specific dirctory.
+
+![photp](Images/lsnonhome.png)
   
   
 
