@@ -101,7 +101,13 @@ Syntax: $ls -ls (another directory) returns the list of files and directories in
 Synyax: $ls -lh
 ![photo](Images/ls-lh.png)
 
-Syntax:l $ls -a returns hidden file alongside visible ones
+Syntax:l $ls -a returns hidden files alongside visible ones. Files with period at the beginning of the file name are considered hidden. These will not be shown by difault on the file manager as well as on the terminal when one runs the ls command.
+
+![photo](Images/ls-amanager.png)
+
+CTRL+H is the equivalent of ls -a command on the file manager.
+
+![photo](ls-amanagera.png)
 
 ![photo](Images/ls-a.png)
 
