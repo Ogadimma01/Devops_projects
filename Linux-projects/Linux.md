@@ -94,6 +94,12 @@ Syntax: $ls -l returns a long listing with a lot more information on the content
 Syntax: $ls -ls (another directory) returns the list of files and directories in the specific dirctory.
 
 ![photp](Images/lsnonhome.png)
+
+* ls -h give the file sizes in human readable forms e.g Megabites, gigabites, kilobites etc.
+* The ls -l and ls -h commands can be combined
+
+Synyax: $ls -lh
+![photo](Images/ls-lh.png)
   
   
 
