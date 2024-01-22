@@ -86,6 +86,10 @@ Syntax: $cd - takes the user back to the previous directory. repeating the comma
 Syntax: $ls
 
 ![image](Images/lscommand.png)
+
+Syntax: $ls -l returns a long listing with a lot more information on the contents of the current working directory.
+
+![image](Images/ls-lscommand.png)
   
   
 
