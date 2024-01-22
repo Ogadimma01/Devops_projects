@@ -107,7 +107,7 @@ Syntax:l $ls -a returns hidden files alongside visible ones. Files with period a
 
 * Hidden files will not be shown by difault on the file manager as well as on the terminal when one runs the ls command.
 
-![image](la-amanager.png)
+![image](ls-amanager.png)
 
 CTRL+H is the equivalent of ls -a command on the file manager.
 
