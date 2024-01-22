@@ -103,7 +103,7 @@ Synyax: $ls -lh
 
 Syntax:l $ls -a returns hidden file alongside visible ones
 
-![photo](ls-a.png)
+![photo](Images/ls-a.png)
   
   
 
