@@ -106,7 +106,7 @@ Syntax:l $ls -a returns hidden file alongside visible ones
 ![photo](Images/ls-a.png)
 
 Syntax: $ls -R lists all files in the subdirecrories
-![photo](Images/)
+![photo](Images/ls-R.png))
   
   
 
