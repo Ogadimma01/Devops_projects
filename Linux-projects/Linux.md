@@ -102,6 +102,8 @@ Synyax: $ls -lh
 ![photo](Images/ls-lh.png)
 
 Syntax:l $ls -a returns hidden file alongside visible ones
+
+![photo](ls-a.png)
   
   
 
