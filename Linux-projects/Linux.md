@@ -109,15 +109,15 @@ Syntax:l $ls -a returns hidden files alongside visible ones. Files with period a
 
 ![image](Images/ls-aman.png)
 
-CTRL+H is the equivalent of ls -a command on the file manager.
+* CTRL+H is the equivalent of ls -a command on the file manager.
 
 ![photo](Images/ls-amanagera.png)
 
-ls -l, ls-a and ls -h can be combined in a single command, syntax: $ls-lah
+* ls -l, ls-a and ls -h can be combined in a single command, syntax: $ls-lah
 
-![image](Images/ls-lah)
+![Image](Images/ls-lah.png)
 
-Syntax: $ls -R lists all files in the subdirecrories
+* Syntax: $ls -R lists all files in the subdirecrories
 
 ![photo](Images/ls-R.png))
   
