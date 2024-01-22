@@ -100,6 +100,8 @@ Syntax: $ls -ls (another directory) returns the list of files and directories in
 
 Synyax: $ls -lh
 ![photo](Images/ls-lh.png)
+
+Syntax:l $ls -a returns hidden file alongside visible ones
   
   
 
