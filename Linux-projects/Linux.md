@@ -143,7 +143,9 @@ Syntax: $cat (file name) (file name) concatenates to files that have been previo
 ![image](Images/catcomd.png)
 
 
-cat -n (combined file) gives line numbers to the contents in the combined file.
+cat -n (combined file) assigns numbers to the contents in the combined file.
+
+![image](Images/cat-n.png)
   
   
 
