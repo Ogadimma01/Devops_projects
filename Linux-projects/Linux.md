@@ -166,10 +166,7 @@ Syntax: $cp file1 file2
 
   ![image](Images/cpdirectory.png)
 
-  * To copy an entire directory, first pass the -R flag before typing the **source directory** followed by the **destination directory**
  
-  ![image](Images/cp-R.png)
-
   * the cp command can copy more than file at a time. in this case, the destination must ne a directory which alredy exists.
     Syntax: $cp <file1> <file2> <file3> <diir1>
 
@@ -177,9 +174,13 @@ Syntax: $cp file1 file2
   
   ## cp options
 
-  *  $cp -i warns the user before overwriting the destination file
+  *  $cp -i warns the user before **overwriting** the destination file
  
   ![image](Images/cp-i.png)
+
+ * To copy an entire directory, first pass the -R flag before typing the **source directory** followed by the **destination directory**
+ 
+  ![image](Images/cp-R.png)
 
 
 
