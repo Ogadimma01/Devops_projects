@@ -141,6 +141,9 @@ Syntax: $cat (file name) (file name) concatenates to files that have been previo
 * $cat panama.txt escravos.txt > kingston.txt combines the first two files and stores the output in the third file
 
 ![image](Images/catcomd.png)
+
+
+cat -n (combined file) gives line numbers to the contents in the combined file.
   
   
 
