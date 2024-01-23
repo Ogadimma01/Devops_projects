@@ -151,6 +151,16 @@ Syntax: $cat (file name) (file name) concatenates to files that have been previo
 Syntax: $cat kingston.txt | grep dog
 
 ![image](Images/catchain.png)
+
+# cp command
+
+* The cp command enables the user to copy a file or group of files
+* The syntax requires two file names to be specified in the command line
+* The first file is copied into the second.
+Syntax: $cp file1 file2
+* If the destinatin file does not exist (file2), it will be created bfore before copying is effected. but if file2 exists it will be overwritten without any warning from the system.
+
+  ![image](Images/cp.png)
   
 
 
