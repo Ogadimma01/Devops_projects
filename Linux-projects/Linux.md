@@ -128,6 +128,15 @@ Syntax:l $ls -a returns hidden files alongside visible ones. Files with period a
 * Syntax: $ls-lhtr sorts the files according to dates and time of modification instead of alphanumeric order
 
 ![image](Images/ls-lhtr.png)
+
+
+# cat command
+
+* the cat command rimaririly enables the user to concatenate files. in practice however, it is often used to show the contents of files and the concatenate or combine them.
+Syntax: $cat (file name) opens the file
+Syntax: $cat (file name) (file name) concatenates to files that have been previously opened using the cat command.
+
+![Image](Images/cat.png)
   
   
 
