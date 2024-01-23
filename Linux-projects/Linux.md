@@ -124,6 +124,10 @@ Syntax:l $ls -a returns hidden files alongside visible ones. Files with period a
 * Syntax$ls -F diffrentiates between files and directories by putting /at the end of every directory
 
 ![image](Images/ls-F.png)
+
+* Syntax: $ls-lhtr sorts the files according to dates and time of modification instead of alphanumeric order
+
+![image](Images/ls-lhtr.png)
   
   
 
