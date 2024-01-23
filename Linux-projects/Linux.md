@@ -166,7 +166,9 @@ Syntax: $cp file1 file2
 
   ![image](Images/cpdirectory.png)
 
-  * To copy an entire directory, first pass the -R flag before typing the **sourcr directory** followed by the **destination directory**
+  * To copy an entire directory, first pass the -R flag before typing the **source directory** followed by the **destination directory**
+ 
+  ![image](Images/cp-R.png)
   
 
 
