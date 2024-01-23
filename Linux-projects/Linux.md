@@ -161,6 +161,10 @@ Syntax: $cp file1 file2
 * If the destinatin file does not exist (file2), it will be created bfore before copying is effected. but if file2 exists it will be overwritten without any warning from the system.
 
   ![image](Images/cp.png)
+
+  * To copy new files into a directory, the syntax is $cp <file1> <file2> <direcrory name>
+
+  ![image](Images/cpdirectory.png)
   
 
 
