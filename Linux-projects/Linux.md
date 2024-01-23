@@ -165,6 +165,8 @@ Syntax: $cp file1 file2
   * To copy new files into a directory, the syntax is $cp <file1> <file2> <direcrory name>
 
   ![image](Images/cpdirectory.png)
+
+  * To copy an entire directory, first pass the -R flag before typing the **sourcr directory** followed by the **destination directory**
   
 
 
