@@ -140,7 +140,7 @@ Syntax: $cat (file name) (file name) concatenates to files that have been previo
 
 * $cat panama.txt escravos.txt > kingston.txt combines the first two files and stores the output in the third file
 
-![image](Images/catplus.png)
+![image](Images/catcomb.png)
   
   
 
