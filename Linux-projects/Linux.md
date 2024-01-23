@@ -137,6 +137,10 @@ Syntax: $cat (file name) opens the file
 Syntax: $cat (file name) (file name) concatenates to files that have been previously opened using the cat command.
 
 ![Image](Images/cat.png)
+
+* $cat panama.txt escravos.txt > kingston.txt combines the first two files and stores the output in the third file
+
+![image](Images/catplus.png)
   
   
 
