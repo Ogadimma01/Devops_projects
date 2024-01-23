@@ -174,6 +174,12 @@ Syntax: $cp file1 file2
     Syntax: $cp <file1> <file2> <file3> <diir1>
 
   ![image](Images/cpmany.png)
+  
+  ## cp options
+
+  *  $cp -i warns the user before overwriting the destination file
+ 
+  ![image](Images/cp-i.png)
 
 
 
