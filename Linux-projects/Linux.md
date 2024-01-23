@@ -147,8 +147,8 @@ Syntax: $cat (file name) (file name) concatenates to files that have been previo
 
 ![image](Images/cat-n.png)
 
-* the cat command can be used as part of a command chain when chaning different commands together. One can use cat against kinggston.txt and chains it into the grep command and have the grep command search for a particular word in the content of kingston.txt e.g dogs. the command returns the content of the file highlighting the word 'dogs' everywhere it appears in the file content.
-Syntax: $cat kingston.txt | grep dogs
+* the cat command can be used as part of a command chain when chaning different commands together. One can use cat against kinggston.txt and chains it into the grep command and have the grep command search for a particular word in the content of kingston.txt e.g dogs. the command returns the content of the file highlighting the word 'dog' everywhere it appears in the file content.
+Syntax: $cat kingston.txt | grep dog
 
 ![image](Images/catchain.png)
   
