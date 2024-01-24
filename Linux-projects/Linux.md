@@ -221,13 +221,19 @@ Syntax: $cp file1 file2
 
 ![image](Images/mkdirsub.png)
 
-* To dreate a subdirecrory in a directory that does not exist. Using the -p flag enables the user to create a directory structure whcich the facilitakes the crearion of a new directory that previously did not ecist
+* To dreate a subdirecrory in a directory that does not exist. Using the -p flag enables the user to create a directory structure whcich the facilitakes the crearion of a new directory that previously did not ecist.
+* -p can be replaced with the full version --parents.
 
 ![image](Images/mkdirnon.png)
 
 ![image](Images/mkdirnames.png)
 
 * Note that the directory'names did not previously exist in the directory called Desktop.
+
+* To create several directories inside a parent directory. Syntax: $PD mkdir -p PD/{N1,N2,N3,N4,N5}
+* Note that there are no spaces after the comas in the curly brackets.
+
+  ![image](Images/mkdir-pmult.png)
  
 
 
