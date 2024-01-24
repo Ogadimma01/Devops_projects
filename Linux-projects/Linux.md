@@ -210,7 +210,7 @@ Syntax: $cp file1 file2
 * the mkdir command is used to create one or multiple irectories at once and give permissions to each of them
 * To create new dirctory in the home directory simply type $mkdir <name of new directoy>
 
-![image](Images/
+![image](Images/mkdirh.png)
  
 
 
