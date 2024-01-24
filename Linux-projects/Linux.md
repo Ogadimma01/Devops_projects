@@ -226,6 +226,8 @@ Syntax: $cp file1 file2
 ![image](Images/mkdirnon.png)
 
 ![image](Images/mkdirnames.png)
+
+* Note that the directory'names did not previously exist in the directory called Desktop.
  
 
 
