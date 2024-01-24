@@ -220,6 +220,10 @@ Syntax: $cp file1 file2
 * to crreate a sudirectory
 
 ![image](Images/mkdirsub.png)
+
+* To dreate a subdirecrory in a directory that does not exist.
+
+![image](Images/mkdirnon.png)
  
 
 
