@@ -253,7 +253,15 @@ Syntax: $cp file1 file2
 
 ![image](Images/mkdir-m.png)
 
-* Note that user, group and other havs read, write and execute permissions on the dirctory 'Ingrid folder.
+* Note that user, group and othesr havs read, write and execute permissions on the dirctory 'Ingrid folder in the image above.
+
+
+![image](Images/mkdir-mwr.png)
+
+* Note in the image above that user and group permissions are for read and write but no execute whereas others have no permissions.
+
+
+
 
 
 
