@@ -258,7 +258,7 @@ Syntax: $cp file1 file2
 
 ![image](Images/mkdir-mwr.png)
 
-* Note in the image above that user and group permissions are for read and write but no execute whereas others have no permissions.
+* Note in the image above that user and group permissions are for read and write but no execute whereas others have no permissions for the direcrory named General.
 
 
 
