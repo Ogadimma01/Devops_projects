@@ -201,7 +201,7 @@ Syntax: $cp file1 file2
 
 ![image](Images/mv-i.png)
 
-* $mv -f prompts for confirmation before overwritng a file that is **write protected**. this option f**orcefully** overwrites a write protected file and **deletes** the source file.
+* $mv -f prompts for confirmation before overwritng a file that is **write protected**. this option **forcefully** overwrites a write protected file and **deletes** the source file.
 
 * $mv -b creates a backup of an existing file that would be overwritten following the mv command.
 
@@ -212,7 +212,7 @@ Syntax: $cp file1 file2
 
 ![image](Images/mkdirh.png)
 
-* To create a dirrectory in an existing dirctory in the home directory, use syntax: $mkdir <home folder name> <name of new folder>
+* To create a dirrectory in an existing dirctory in the home directory, use syntax: $mkdir <name of the directory in home> <name of new directory>
 
 ![image](Images/mkdirdisos.png)
  
