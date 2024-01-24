@@ -186,7 +186,7 @@ Syntax: $cp file1 file2
 * The command has two functions
   1. it renames a file or directory. Syntax: $mv <file1> <file2). File1 will be renamed file2 and the contents of file1 moved to file2. This command does not create a copy of the file. it simply renames it.
 
-![image](mv.png)
+![image](Images/mv.png)
 
 
  2. It moves a agroup of files to a different directory. Syntax: $mv <file name> <dir name>
