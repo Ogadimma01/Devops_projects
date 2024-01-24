@@ -214,7 +214,7 @@ Syntax: $cp file1 file2
 
 * To create a dirrectory in an existing dirctory in the home directory, use syntax: $mkdir <home folder name> <name of new folder>
 
-![image](mkdirdisos.png)
+![image](Images/mkdirdisos.png)
  
 
 
