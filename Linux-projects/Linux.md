@@ -204,6 +204,13 @@ Syntax: $cp file1 file2
 * $mv -f prompts for confirmation before overwritng a file that is **write protected**. this option f**orcefully** overwrites a write protected file and **deletes** the source file.
 
 * $mv -b creates a backup of an existing file that would be overwritten following the mv command.
+
+# mkdir command
+
+* the mkdir command is used to create one or multiple irectories at once and give permissions to each of them
+* To create new dirctory in the home directory simply type $mkdir <name of new directoy>
+
+![image](Images/
  
 
 
