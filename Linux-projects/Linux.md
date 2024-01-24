@@ -224,6 +224,8 @@ Syntax: $cp file1 file2
 * To dreate a subdirecrory in a directory that does not exist. Using the -p flag enables the user to create a directory structure whcich the facilitakes the crearion of a new directory that previously did not ecist
 
 ![image](Images/mkdirnon.png)
+
+![image](Images/mkdirnames.png)
  
 
 
