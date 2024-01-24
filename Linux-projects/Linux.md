@@ -194,6 +194,16 @@ Syntax: $cp file1 file2
 ![image](Images/mvdir.png)
 
 * The mv command does not prompt the user for confirmation.
+
+## mv options
+
+* $mv -i prompts the user for confirmation before moving a file that would **overwrite** an existing file. the user must then enter 'y' to confirm.
+
+![image](Images/mv-i.png)
+
+* $mv -f prompts for confirmation before overwritng a file that is **write protected**. this option f**orcefully** overwrites a write protected file and **deletes** the source file.
+
+* $mv -b creates a backup of an existing file that would be overwritten following the mv command.
  
 
 
