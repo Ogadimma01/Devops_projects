@@ -244,7 +244,16 @@ Syntax: $cp file1 file2
 * $mkdir -v informs the user that a directory has been created after execution of command.
 
 ![image](Images/mkdir-v.png)
- 
+
+
+* The -m flag sets file permissions. By default the permission for read is 4, write is 2 and execute is 1.
+* Permission for read, write and execute is 7
+* Persission for read and write and not execute is 6
+* Permisssion for write and execute without read is 5
+
+![image](Images/mkdir-m.png)
+
+* Note that user, group and other havs read, write and execute permissions on the dirctory 'Ingrid folder.
 
 
 
