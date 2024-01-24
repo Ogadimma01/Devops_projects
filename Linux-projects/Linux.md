@@ -233,7 +233,11 @@ Syntax: $cp file1 file2
 * To create several directories inside a parent directory. Syntax: $PD mkdir -p PD/{N1,N2,N3,N4,N5}
 * Note that there are no spaces after the comas in the curly brackets.
 
-  ![image](Images/mkdir-pmult.png)
+![image](Images/mkdir-pmult.png)
+
+* $mkdir -v informs the user that a directory has been created after execution of command.
+
+![image](Images/mkdir-v)
  
 
 
