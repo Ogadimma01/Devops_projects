@@ -230,6 +230,12 @@ Syntax: $cp file1 file2
 
 * Note that the directory'names did not previously exist in the directory called Desktop.
 
+
+* The -p flag can also be used to create a chain of subdirctories from one parent direcrory. Syntax: $mkdir -p D1/D2/D3/D4/D5
+
+![image](Images/mkdirsubd.png)
+
+
 * To create several directories inside a parent directory. Syntax: $PD mkdir -p PD/{N1,N2,N3,N4,N5}
 * Note that there are no spaces after the comas in the curly brackets.
 
