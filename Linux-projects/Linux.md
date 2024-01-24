@@ -211,6 +211,10 @@ Syntax: $cp file1 file2
 * To create new dirctory in the home directory simply type $mkdir <name of new directoy>
 
 ![image](Images/mkdirh.png)
+
+* To creat a dirrectory in an existing dirctory in the home directory, first use the cd command to change to the required directory and then use the mkdir command to creat the new dirctory.
+
+![image](mkdirdsk.png)
  
 
 
