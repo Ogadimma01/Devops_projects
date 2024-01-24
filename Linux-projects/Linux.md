@@ -208,11 +208,11 @@ Syntax: $cp file1 file2
 # mkdir command
 
 * the mkdir command is used to create one or multiple irectories at once and give permissions to each of them
-* Use syntax: $mkdir <name of new directory> to create a new dirctory in the home directory
+* Use syntax: $mkdir < directory > to create a new dirctory in the home directory
 
 ![image](Images/mkdirh.png)
 
-* To create a dirrectory in an existing dirctory in the home directory, use syntax: $mkdir <name of the directory in home> <name of new directory>
+* To create a new dirrectory in an existing dirctory in the home directory, use syntax: $mkdir <home> <new>
 
 ![image](Images/mkdirdisos.png)
  
