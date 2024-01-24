@@ -192,6 +192,8 @@ Syntax: $cp file1 file2
  2. It moves a agroup of files to a different directory. Syntax: $mv <file name> <dir name>
 
 ![image](Images/mvdir.png)
+
+* The mv command does not prompt the user for confirmation.
  
 
 
