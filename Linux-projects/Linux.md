@@ -233,7 +233,7 @@ Syntax: $cp file1 file2
 
 * The -p flag can also be used to create a chain of subdirctories from one parent direcrory. Syntax: $mkdir -p D1/D2/D3/D4/D5
 
-![image](Images/mkdirsubd.png)
+![image](Images/mkdir-psubd.png)
 
 
 * To create several directories inside a parent directory. Syntax: $PD mkdir -p PD/{N1,N2,N3,N4,N5}
@@ -243,7 +243,7 @@ Syntax: $cp file1 file2
 
 * $mkdir -v informs the user that a directory has been created after execution of command.
 
-![image](Images/mkdir-v)
+![image](Images/mkdir-v.png)
  
 
 
