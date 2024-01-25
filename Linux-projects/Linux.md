@@ -265,6 +265,8 @@ Syntax: $cp file1 file2
 
 ![image](Images/mkdir-mperm.png)
 
+* In the image above, user had read and write permissions, group has read onlu permission whereas others have no permissions.
+
 
 
 
