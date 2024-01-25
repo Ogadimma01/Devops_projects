@@ -261,6 +261,9 @@ Syntax: $cp file1 file2
 * Note in the image above that user and group permissions are for read and write but no execute whereas others have no permissions for the direcrory named General.
 
 
+* the user can also assign permissions using numbers for read=4, write=2 and execute=1
+
+![image](Images/mkdir-mperm.png)
 
 
 
