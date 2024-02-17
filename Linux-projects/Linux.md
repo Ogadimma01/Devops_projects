@@ -271,7 +271,7 @@ Syntax: $cp file1 file2
 
 * This is used to remove an permanently remove or delete an empty directory. This requires the user to have sudo privileges in the parent directory. This comman will fail to remove any directory that is not empty
 
-![image](images/rmdir_empty.png)
+![image](images/rmdir -empty.png)
 
 ![image](images/rmdirNE.png)
 
