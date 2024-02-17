@@ -273,6 +273,8 @@ Syntax: $cp file1 file2
 
 ![photo](Images/rmdir.png)
 
+![photo](Images/rmdir2.png)
+
 
 
 *One way to permanently delete a directory that is not empty is to remove the empty directory by first removing its contents individually before finally removing it.
