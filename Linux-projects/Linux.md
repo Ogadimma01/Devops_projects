@@ -293,7 +293,7 @@ Syntax: $cp file1 file2
 
 * To delete more than one file with one rm command:
 
-![photo](rm1.png)
+![photo](Images/rm1.png)
 
 
 
