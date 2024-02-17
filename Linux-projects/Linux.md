@@ -283,7 +283,7 @@ Syntax: $cp file1 file2
 
 ![image](images/mkdir-p.ping)
 
-* If one directory or more in a hierachy of directories is not empty, then the rm command in combination with the -r flag must be used to permanently delete it.
+* If a directory is not empty, then the rm command in combination with the -r flag must be used to permanently delete it.
 
 1[image](images/mkdir-r.ping)
 
