@@ -289,7 +289,7 @@ Syntax: $cp file1 file2
 # rm command
 * This removes or deletes a file without prompting for confirmation
 
-![photo](Images/rm.png)
+![photo](Images/rm.pn))
 
 * To delete more than one file with one rm command:
 
