@@ -304,6 +304,9 @@ Syntax: $cp file1 file2
 ![photo](Images/rm-r.png)
 
 
+* The -f flag whem used with the rm command forcefully removes a file without prompt for confirmation even if the file is write protected.
+
+
 
 
 
