@@ -276,13 +276,9 @@ Syntax: $cp file1 file2
 ![photo](Images/rmdir2.png)
 
 
-
-*One way to permanently delete a directory that is not empty is to remove the empty directory by first removing its contents individually before finally removing it.
-
-
-
 * To delete a hierachy of directories in which one empty directory is located inside another, the rmdir command can be used in combination with the -p flag. The -p flag only works if all directories in the hierachy are empty.
 
+![phpto](Images/rmdir-p.png)
 
 
 * If a directory is not empty, then the rm command in combination with the -r flag must be used to permanently delete it.
