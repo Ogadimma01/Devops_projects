@@ -283,7 +283,7 @@ Syntax: $cp file1 file2
 
 * If a directory is not empty, then the rm command in combination with the -r flag must be used to permanently delete it.
 
-![image](Images/rmdir-r.png)
+![image](Images/rmdir-r.ping).png)
 
 
 
