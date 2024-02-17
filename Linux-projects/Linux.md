@@ -271,21 +271,21 @@ Syntax: $cp file1 file2
 
 * This is used to remove an permanently remove or delete an empty directory. This requires the user to have sudo privileges in the parent directory. This command will fail to remove any directory that is not empty
 
-![image](Images/rmdir-empty.png)
 
-![image](Images/rmdirNE.png)
+
+
 
 *One way to permanently delete a directory that is not empty is to remove the empty directory by first removing its contents individually before finally removing it.
 
-![image](Images/mkdirNE1.png)
+
 
 * To delete a hierachy of directories in which one empty directory is located inside another, the rmdir command can be used in combination with the -p flag. The -p flag only works if all directories in the hierachy are empty.
 
-![image](Images/mkdir-p.png)
+
 
 * If a directory is not empty, then the rm command in combination with the -r flag must be used to permanently delete it.
 
-![image](Images/mkdir-r.png)
+![image](Images/rmdir-r.png)
 
 
 
