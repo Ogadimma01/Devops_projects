@@ -295,7 +295,13 @@ Syntax: $cp file1 file2
 
 ![photo](Images/rm1.png)
 
-* The rm command in combination with the -i flag prompts the user for confirmation. Selecting the 'y' key permanently deletes file. 
+* The rm command in combination with the -i flag prompts the user for confirmation. Selecting the 'y' key permanently deletes file.
+
+1{photo](Images/rm-i.png)
+
+* Whem used with the -r flag, the rm command recursively deletes all subdirectories and files within the subdirectories and the parent directory. Normally, the rm command would not delete a directory but with the -f flag, it will delete directories as well.
+
+![photo](Images/rm-r.png)
 
 
 
