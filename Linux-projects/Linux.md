@@ -287,13 +287,15 @@ Syntax: $cp file1 file2
 
 
 # rm command
-* This removes or deletes a file without prompting for confirmation
+* This removes or deletes a file without prompting for confirmation. A file once deleted cannot be recovered.
 
 ![photo](Images/rm.png)
 
 * To delete more than one file with one rm command, seperate the files with spaces:
 
 ![photo](Images/rm1.png)
+
+* The rm command in combination with the -i flag prompts the user for confirmation. Selecting the 'y' key permanently deletes file. 
 
 
 
