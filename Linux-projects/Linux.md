@@ -307,6 +307,40 @@ Syntax: $cp file1 file2
 * The -f flag whem used with the rm command forcefully removes a file without prompt for confirmation even if the file is write protected.
 
 
+# touch command
+
+* This is used to easily crreate new empty files. I can create any number of files simultaneously.
+
+
+
+* It is also be used to change timestamps on existing files and directories. A timestamp is information associated with a file which identifies an important time in the file's history.
+* Types of time stamps include: ### Access time:
+                                                Thisis the last time the file was read.
+                                ## Modification time:
+                                                This is the last time the contents of the file were modified.
+                                ## Change time  This is the last time the file's metadata was changed.
+* These time stamps can be viewed by using the stat command e.g stat file7
+
+![photo](Images/stat.png)
+
+
+* touch command can be used to chnge access and modification time individually
+* -a flag is used to change access time
+
+![photo](Images/touch-a.png)
+
+
+* -m flag is used to change modification time
+
+![photo](Images/touch-m.png)
+
+
+* the timestamp can be modified to an arbitray time by using the touch command with the -d flag followed by the required timestamp in string e.g touch -d "2016-06-15 21:45:22" file24.
+  This will modify yhe timestamp to June 15 2016.
+
+![photo](Images/touch-d.png)
+
+
 
 
 
