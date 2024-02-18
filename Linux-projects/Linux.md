@@ -309,7 +309,7 @@ Syntax: $cp file1 file2
 
 # touch command
 
-* This is used to easily crreate new empty files. I can create any number of files simultaneously.
+* This is used to easily crreate new empty files. One can create any number of files simultaneously.
 
 
 
