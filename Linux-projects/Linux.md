@@ -311,6 +311,10 @@ Syntax: $cp file1 file2
 
 * This is used to easily crreate new empty files. One can create any number of files simultaneously.
 
+![photo](Images/touch.png)
+
+
+![photo](Images/touch1.png)
 
 
 * It is also be used to change timestamps on existing files and directories. A timestamp is information associated with a file which identifies an important time in the file's history.
