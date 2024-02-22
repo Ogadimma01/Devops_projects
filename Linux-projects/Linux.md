@@ -345,6 +345,13 @@ Syntax: $cp file1 file2
 ![photo](Images/touch-d.png)
 
 
+# locate command
+* The locate command can find a file in the database system.
+* Adding the -i flag turns of case sensitivity.
+
+![photo](Images/locate.png)
+
+
 
 
 
