@@ -352,6 +352,12 @@ Syntax: $cp file1 file2
 ![photo](Images/locate.png)
 
 
+# find command
+* This command is used to search for files within a spacific directory.
+
+![image](Images/find.png)
+
+
 
 
 
