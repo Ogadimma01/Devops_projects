@@ -358,6 +358,16 @@ Syntax: $cp file1 file2
 ![image](Images/find.png)
 
 
+# grep command
+* grep stands for global regular expression print.
+* The whole purpose of grep is to search for texts within files.
+* The ssh_config file has 53 lines of text.
+* grep can be used to search for a particular word within the file.
+
+
+![image](Images/grep.png)
+
+
 
 
 
