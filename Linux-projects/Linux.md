@@ -367,6 +367,10 @@ Syntax: $cp file1 file2
 
 ![image](Images/grep.png)
 
+*The -v flag can be used alongside grep to exclude a particular word from the search.
+
+![photo](Images/grep1.png)
+
 
 
 
