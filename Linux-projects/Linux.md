@@ -389,7 +389,7 @@ Syntax: $cp file1 file2
 
 * The -r command is used to recursively search for an item in every file in the system.
 
-![photo](Images/grepr.png)
+![photo](Images/grepr.png
 
 ![photo](Images/grepri.png)
 
