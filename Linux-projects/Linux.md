@@ -409,6 +409,16 @@ Syntax: $cp file1 file2
 
 ![photo](Images/df-x.png)
 
+* The du command is used to find out how much space is used on the folder or directory level.
+* The way the du command works is that if you give it a pathway to a directory, it will show you how much space is used up inside thatt directory.
+* The pathway to the directory of interest must be specified when using the du command
+
+![photo](Images/du.png)
+* The problem with the du commnand is that it floods the screen with a lot of information.
+* We can clean up this information by limiting how far within the directory tree the du command is allowed to go.
+
+![photo](Images/du1.png)
+
 
 
 
