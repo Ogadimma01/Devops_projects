@@ -401,6 +401,9 @@ Syntax: $cp file1 file2
 
 ![photo](Images/df.png)
 
+* The -T option adds anothe column of information containing the file system type of the mount.
+
+![photo](images/df-hT.png)
 
 
 
