@@ -407,7 +407,7 @@ Syntax: $cp file1 file2
 
 *The -x option can be used to exclude idems we are not interested in e.g tmpfs.
 
-![photo](Images/df-x)
+![photo](Images/df-x.png)
 
 
 
