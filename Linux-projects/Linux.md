@@ -394,6 +394,14 @@ Syntax: $cp file1 file2
 ![photo](Images/grepri.png)
 
 
+# The df and du command.
+* The df and du commands deal with disc usage.
+* df stands for 'disk free'.
+* The -h option returns the human readable output for the df command.
+
+![photo](Images/df.png)
+
+
 
 
 
