@@ -378,6 +378,10 @@ Syntax: $cp file1 file2
 
 ![image](Images/grepn.png)
 
+*The -c flag returns the count or number of times the searched item apears in the file without showing the lines.
+
+![image](Images/grepc.png)
+
 
 
 
