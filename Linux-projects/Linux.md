@@ -403,7 +403,7 @@ Syntax: $cp file1 file2
 
 * The -T option adds anothe column of information containing the file system type of the mount.
 
-![photo](images/df-hT.png)
+![photo](Images/df-hT.png)
 
 
 
