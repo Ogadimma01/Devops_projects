@@ -374,6 +374,10 @@ Syntax: $cp file1 file2
 
 ![image](Images/grep2.png)
 
+* the -n flag alongside the grep command assigns numbers to fetched items according to their numerical positions in the file.
+
+![image](Images/grepn.png)
+
 
 
 
