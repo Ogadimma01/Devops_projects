@@ -382,6 +382,10 @@ Syntax: $cp file1 file2
 
 ![image](Images/grepc.png)
 
+* The grep command is case sensitive by default. applying the -i command overrides the case sensitivity.
+
+![image](Images/grepi.png)
+
 
 
 
