@@ -372,6 +372,9 @@ Syntax: $cp file1 file2
 ![photo](Images/grep1.png)
 
 
+![image](Images/grep2.png)
+
+
 
 
 
