@@ -431,12 +431,20 @@ Syntax: $cp file1 file2
 
 ![photo](Images/head.png)
 
+* The -n option is used to specify the number of lines to be printed.
+
+![photo](Images/head-n.png)
+
 
 # The tali command
 
 * The tail command prints the last ten lines of a file
 
 ![photo](Images/tail.png)
+
+* The -n option is used to specify the number of lines to be printed.
+
+![photo](Images/tail-n.png) 
 
 
 
