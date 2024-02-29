@@ -425,6 +425,19 @@ Syntax: $cp file1 file2
 
 ![photo](Images/du-hsc.png)
 
+# The head command
+
+* The head command prints the first ten lines of a file.
+
+![photo](Images/head.png)
+
+
+# The tali command
+
+* The tail command prints the last ten lines of a file
+
+![photo](Images/tail.png)
+
 
 
 
