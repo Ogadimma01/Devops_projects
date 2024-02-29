@@ -421,7 +421,11 @@ Syntax: $cp file1 file2
 
 * The -s option is used to print a summary of disk usagewithin a directory or multiple directories. Be sure to use root when trying to access directories that require sudo privilages.
 
-![photo](Images/du-hs.png)
+* The -c option prints the total dusc usage within more than one directory
+
+![photo](Images/du-hsc.png)
+
+
 
 
 
