@@ -447,6 +447,17 @@ Syntax: $cp file1 file2
 ![photo](Images/tail-n.png) 
 
 
+# The diff command
+
+* the diff command is used show any differences between files. If there is no difference between two files, the command will not return an output. Use the -s option to confirm similarity.
+
+![photo](Images/diff-s.png)
+
+* When they exist, differnces between files are printed with the diff command.
+
+![photo](Images/diff.png)
+
+
 
 
 
