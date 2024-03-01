@@ -453,9 +453,14 @@ Syntax: $cp file1 file2
 
 ![photo](Images/diff-s.png)
 
+![photo](Images/diff2.png)
+
+
 * When they exist, differnces between files are printed with the diff command.
 
 ![photo](Images/diff.png)
+
+![photo](Images/diff1.png)
 
 
 
