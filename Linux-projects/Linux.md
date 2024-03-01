@@ -463,6 +463,27 @@ Syntax: $cp file1 file2
 ![photo](Images/diff1.png)
 
 
+# The tar command
+
+* This command allows us to archive multiple files into one archive file much like a zip file.
+* Unlike files in a zip file however, files in a tar file are not compressed.
+* Files in a tar file can be compressed by choice.
+
+![photo](Images/tar.png)
+
+* The -t option lists contents of the tar file without extracting them.
+
+![photo](Images/tar-tf.png)
+
+* The -v option adds multiple columns to the output.
+
+![photo](Images/tar-tvf.png)
+
+* The -x option is used toextract files from a tar file. This comes in handy when a deleted file is to be restored from a backup.
+
+![photo](Images/tar-x.png)
+
+
 
 
 
