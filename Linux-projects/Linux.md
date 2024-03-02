@@ -466,7 +466,9 @@ Syntax: $cp file1 file2
 # The tar command
 
 * This command allows us to archive multiple files into one archive file much like a zip file.
+  
 * Unlike files in a zip file however, files in a tar file are not compressed.
+  
 * Files in a tar file can be compressed by choice.
 
 ![photo](Images/tar.png)
@@ -482,6 +484,14 @@ Syntax: $cp file1 file2
 * The -x option is used toextract files from a tar file. This comes in handy when a deleted file is to be restored from a backup.
 
 ![photo](Images/tar-x.png)
+
+# The chmod command
+
+* This command is used to modify  a file or directory's read, write, and execute permissions for owner, group and other.
+
+* r = 4, w = 2, x = 1
+  
+![photo](Images/chmod.png)
 
 
 
