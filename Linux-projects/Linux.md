@@ -526,14 +526,14 @@ Syntax: $cp file1 file2
 
 * View jobs using the jobs command
 
-![photo](imanges/jobsv.png)
+![photo](Imanges/jobsv.png)
 
 * The PID number isn’t listed here, but you don’t need it. You control jobs using the user/shell-specific job ID.
 
 
 * You can use that Job ID to bring your instance of nano to the foreground.
 
-![photo](images/jobsfg.png)
+![photo](Images/jobsfg.png)
 
 
 * You can stop open jobs by using Ctrl+z. Here’s a screenshot that shows how to use this with top.
