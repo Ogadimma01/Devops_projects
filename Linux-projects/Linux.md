@@ -494,6 +494,17 @@ Syntax: $cp file1 file2
 ![photo](Images/chmod.png)
 
 
+# The chown command
+
+* This comand is used to change ownership of directories, files or symbolic link to a specified user name.
+
+![photo](Images/chown.png)
+
+* Change of group ownership of a file can also be effected using the chown command.
+
+![photo](Images/chown1.png)
+
+
 
 
 
