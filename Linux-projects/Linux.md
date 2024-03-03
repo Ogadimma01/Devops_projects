@@ -526,7 +526,7 @@ Syntax: $cp file1 file2
 
 * View jobs using the jobs command
 
-![photo](Imanges/jobsv.png)
+![photo](Images/jobsv.png)
 
 * The PID number isn’t listed here, but you don’t need it. You control jobs using the user/shell-specific job ID.
 
