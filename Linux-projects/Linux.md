@@ -504,6 +504,44 @@ Syntax: $cp file1 file2
 
 ![photo](Images/chown1.png)
 
+# The jobs command
+
+* The jobs command in Linux allows the user to directly interact with processes in the current shell.
+
+* Jobs have three possible states in Linux: foreground, background, and stopped.
+
+* Job Control has several different functions. Each can be run independently. Here is a table of the commands related to Job Control.
+
+* Command	Description
+   jobs	Lists jobs in current shell
+   bg %n	Send process to background
+   fg %n	Bring process to foreground
+         n represents the number of the corresponding job ID.
+
+* To Sending a job to work in the background, you just need to append your command with an & (ampersand) symbol.
+
+![photo](Images/jobs.png)
+
+* You can see this command returns the job number in the brackets. The following number is the process ID used by the kernel.
+
+* View jobs using the jobs command
+
+![photo](imanges/jobsv.png)
+
+* The PID number isn’t listed here, but you don’t need it. You control jobs using the user/shell-specific job ID.
+
+
+* You can use that Job ID to bring your instance of nano to the foreground.
+
+![photo](images/jobsfg.png)
+
+
+* You can stop open jobs by using Ctrl+z. Here’s a screenshot that shows how to use this with top.
+
+* In the images below, I use Ctrl+z to suspend it, view it in my jobs list, and then bring it back to the foreground before closing it.
+
+![photo](Images/jobsst.png)
+
 
 
 
