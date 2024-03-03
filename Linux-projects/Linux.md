@@ -520,7 +520,7 @@ Syntax: $cp file1 file2
 
 * To Sending a job to work in the background, you just need to append your command with an & (ampersand) symbol.
 
-![photo](Images/jobs.png)
+![photo](Images/jobs(2).png)
 
 * You can see this command returns the job number in the brackets. The following number is the process ID used by the kernel.
 
