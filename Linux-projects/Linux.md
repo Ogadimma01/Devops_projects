@@ -613,6 +613,17 @@ Syntax: $cp file1 file2
 ![photo](Images/uname.png)
 
 
+# the top command
+
+* This command will display all running processes in real time.
+
+* It catalogues resource utilization from CPU usage to memory usage.
+
+* the top command can also be used identify to kill any processes that may be using too many system resources.
+
+1[photo](Images/top.png)
+
+
 
 
 
