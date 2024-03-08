@@ -542,6 +542,28 @@ Syntax: $cp file1 file2
 
 ![photo](Images/jobsst.png)
 
+# The kill command
+
+* Once in a while, some applications may start behaving erratically and become unresponsive or start consuming a lot of system resources.
+  
+* Unresponsive applications cannot be restarted because the original application process never shuts down completely.
+
+* The only solution is to either restart the system or kill the application process.
+
+* The kill command is used to terminate an unresposive program mannually.
+
+* In order to use the kill command, the PID of the program must be known.
+
+* To get the PID of a running program, use 'pidof [name of the process].
+
+* We can also use 'ps -ux' or 'ps aux' to print a list of all running processes on our system
+
+![photo](Images/PID.png)
+
+* The syntax for the kill command is 'kill -flag PID'
+
+![photo](Images/kill.png)
+
 
 
 
