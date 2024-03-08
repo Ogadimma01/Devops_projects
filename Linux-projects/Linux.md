@@ -610,7 +610,7 @@ Syntax: $cp file1 file2
 
 * This command is used to print detailed information about the Linux system and hardare
 
-![photo](Images/uname.ping)
+![photo](Images/uname.png)
 
 
 
