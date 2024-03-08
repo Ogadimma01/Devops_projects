@@ -567,6 +567,27 @@ Syntax: $cp file1 file2
 * Of 64 flags that can be used with the lill command 'SIGKILL' and 'SIGTERM' are most commonly used. The SIGTERM flag requests a program to stop running and gives it time to save all of its processes whereas the SIGKILL flag forces a program to stop without saving it's processes.
 
 
+# The ping command
+
+* This command is used to confirm that a target server is online.
+
+* The command can also be used for trouble shooting all forms of connectivity problems
+
+* The ping command also be used to find out when an instance comes back online after some period of being offline.
+
+* syntax: ping [option] [host name or ip address]
+
+![photo](Images/pingG.png)
+
+
+![photo](Images/ping.png)
+
+* In linux, the ping command will ping forever until we use 'CTRL + C' to come out of it and reyurn to the command line.
+
+* We can actually use the -c option to preset the nunmber of pings we get from a ping command
+
+![photo](Images/pingC.png)
+
 
 
 
