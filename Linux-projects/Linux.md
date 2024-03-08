@@ -606,6 +606,13 @@ Syntax: $cp file1 file2
 ![photo](Images/wget-P.png)
 
 
+# The uname command
+
+* This command is used to print detailed information about the Linux system and hardare
+
+![photo](Images/uname.ping)
+
+
 
 
 
