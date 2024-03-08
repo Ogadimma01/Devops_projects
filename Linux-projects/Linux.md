@@ -621,7 +621,7 @@ Syntax: $cp file1 file2
 
 * the top command can also be used identify to kill any processes that may be using too many system resources.
 
-1[photo](Images/top(2).png)
+1[photo](Images/top (2).png)
 
 
 
