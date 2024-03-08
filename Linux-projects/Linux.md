@@ -564,6 +564,8 @@ Syntax: $cp file1 file2
 
 ![photo](Images/kill.png)
 
+* Of 64 flags that can be used with the lill command 'SIGKILL' and 'SIGTERM' are most commonly used. The SIGTERM flag requests a program to stop running and gives it time to save all of its processes whereas the SIGKILL flag forces a program to stop without saving it's processes.
+
 
 
 
