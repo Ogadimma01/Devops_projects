@@ -601,6 +601,10 @@ Syntax: $cp file1 file2
 
 ![photo](Images/wget-O.png)
 
+* We ca use the -P option to set a custom path for the downloaded file.
+
+![photo](Images/wget-P.png)
+
 
 
 
