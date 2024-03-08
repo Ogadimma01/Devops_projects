@@ -624,6 +624,21 @@ Syntax: $cp file1 file2
 ![photo](Images/top.png)
 
 
+# THe history command
+
+* This command gets the system to list up to 500 previously executed commands.
+
+![photo](Images/history.png)
+
+* Any command in the list can be re-executed using the number on the left of the command without re-entering the entire command. This requires sudo priviledges
+
+![photo](Images/history1.png)
+
+* sudo !! re-executes the most recent command in the history
+
+![photo](Images/historysudo.png)
+
+
 
 
 
