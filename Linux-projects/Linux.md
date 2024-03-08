@@ -589,6 +589,17 @@ Syntax: $cp file1 file2
 ![photo](Images/pingC.png)
 
 
+# The wget command
+
+* This command allows us to download files from the internet using the HTTP, HTTPS and FTP protocols
+
+* Syntax: wget [option] [url
+
+![photo](Images/wget.png)
+
+* We can use the -O option to set a custom name for the file
+
+![photo](Images/wget-O)
 
 
 
