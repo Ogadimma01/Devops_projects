@@ -599,7 +599,7 @@ Syntax: $cp file1 file2
 
 * We can use the -O option to set a custom name for the file
 
-![photo](Images/wget-O)
+![photo](Images/wget-O.png)
 
 
 
