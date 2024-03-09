@@ -716,7 +716,7 @@ You can use the echo command to redirect output to a textfile.
 
 * To view the content of a zip file, use the syntax: zipinfo [filename]
 
-![photo}(Images/zipinfo.png)
+![photo](Images/zipinfo.png)
 
 * The unzip command is used to unzip a zipped file; syntax: unzip [filename]
 
