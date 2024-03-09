@@ -723,6 +723,15 @@ You can use the echo command to redirect output to a textfile.
 ![photo](Images/unzip.png)
 
 
+# The hostname command
+
+* Use this to print the hostname of your system.
+
+* When run with the -i otion, it prints the ip address of the system.
+
+![photo](Images/hostname.png)
+
+
 
 
 
