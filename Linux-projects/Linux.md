@@ -645,7 +645,7 @@ Syntax: $cp file1 file2
 
 * These manual pages contain information like commandline arguments, usage examples and so on.
 
-1[photo](Images/man.png)
+![photo](Images/man.png)
 
 * Different sections of the man pages can be viewed by appending the session number to the man command.
 
