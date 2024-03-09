@@ -652,6 +652,59 @@ Syntax: $cp file1 file2
 ![photo](Images/mansec.png)
 
 
+# The echo command
+
+* The basic use of the echo command is to reuturn a line of text or string using the standard output.
+
+![photo](Images/echo.png)
+
+* Another very popular use of the echo command is to print the content of a variable. aAn example is the variable msg containing the content "Hello World"
+
+![photo](Images/echovar.png)
+
+* Because the echo command is a built-in utility, there are many variables intercessions are created for us in Linux
+
+![photo](Images/env.png)
+
+* As examples, you can just echo the SHELL variable and the HOME variable.
+
+![photo](Images/SHELL.png)
+
+* The -e option enables the interpretation of many backlash escapes.
+
+* Using the -e option you can sound an audible alert when you run an echo command. The -e option allows you to change the format of the text that appears when you run the echo command
+
+![photo](Images/echoaud.png)
+
+* You can also use the backspace character in echo using the -e option
+
+![photo](Images/echobksp.png)
+
+* Notice that letter 'a' was deleted in the output.
+
+* You ca use the -e option to print a shorter output by removing part of the sring.
+
+![photo](Images/echoshort.png)
+
+* The -e option can also be used to introduce a new line in the output.
+
+* The echo comand can be used to redirect output to a textfile.
+
+![photo](Images/echonew.png)
+
+![photo](Images/echonew1.png) 
+
+* You can also add a tab character to the output
+
+![photo](Images/echotab.png)
+
+You can use the echo command to redirect output to a textfile.
+
+![photo](Images/echolog.png)
+
+
+
+
 
 
 
