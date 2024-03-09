@@ -703,6 +703,25 @@ You can use the echo command to redirect output to a textfile.
 ![photo](Images/echolog.png)
 
 
+# The zip, unzip command
+
+* The zip command is used to compress files to reduce file size and is also used as a file package utility in Linux.
+
+* If you have limited bandwidth between two servers and want to transfer the files faster, then zip the files and transfer them.
+
+* The zip command puts one or more compressed files into a single zip archive, along with information about the files (name, path, date, time of last modification, protection, and check information to verify file 
+  integrity). An entire directory structure can be packed into a zip archive with a single command.
+
+![photo](Images/zip.png)
+
+* To view the content of a zip file, use the syntax: zipinfo [filename]
+
+![photo}(Images/zipinfo.png)
+
+* The unzip command is used to unzip a zipped file; syntax: unzip [filename]
+
+![photo](Images/unzip.png)
+
 
 
 
