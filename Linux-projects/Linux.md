@@ -729,7 +729,7 @@ You can use the echo command to redirect output to a textfile.
 
 * When run with the -i otion, it prints the ip address of the system.
 
-![photo](Images/hostname.png)
+![photo](Images/hostN.png)
 
 
 
