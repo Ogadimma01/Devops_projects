@@ -639,6 +639,19 @@ Syntax: $cp file1 file2
 ![photo](Images/historysudo.png)
 
 
+# The man command
+
+* This command allows you to view the manual pages for many of the commands that are available on Linux terminal.
+
+* These manual pages contain information like commandline arguments, usage examples and so on.
+
+1[photo](Images/man.png)
+
+* Different sections of the man pages can be viewed by appending the session number to the man command.
+
+![photo](Images/mansec.png)
+
+
 
 
 
