@@ -19,7 +19,7 @@
 ![new image](Images/superuser.png)
 
 
-Sometimes we can forget to type in 'sudo' in a sudo command. Typing sudo followed by double exclamation marks executes the previous command using sudo privileges
+Sometimes we can forget to type in 'sudo' in a sudo command. Typing sudo followed by double exclamation marks executes the previous command using sudo privileges.
 Syntax: *sudo !!*
 
 ![new image](Images/sudo.png)
