@@ -732,6 +732,35 @@ You can use the echo command to redirect output to a textfile.
 ![photo](Images/hostN.png)
 
 
+# useradd userdel commands
+
+* More than one person can use Linux simultaneously.
+
+* The useradd is a command line utility that can be used to create new users in Linux and Unix systems.
+  
+*  Only the user with root priviledges or sudo can can run the useradd command.
+
+*  The passwd command allows you to add password.
+
+*   When you run the useradd comman, it makes changes to the following files:
+/etc/passwd
+/etc/shadow
+/etc/group
+/etc/gshadow
+creates a directory for new user in /home
+
+*  The general syntax for the useradd command is: useradd [OPTIONS] USERNAME
+
+*  To view all users of the system, run **cat /etc/passwd**
+
+![photo](Images/useradd.png)
+
+* T remove a user run **userdel [username]**
+
+![photo](Images/userdel.png)
+
+
+
 
 
 
