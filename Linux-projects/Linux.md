@@ -760,13 +760,13 @@ creates a directory for new user in /home
 ![photo](Images/userdel.png)
 
 
-## The apt command
+# The apt command
 
 * The apt command is a package manager tool.
 
 * The apt package manager uses a series of commands which reqiure sudo or root priviledges.
 
-# The apt upsate
+## The apt udsate
 
 * Any time we're using the apt package manager, we need to refresh it and make sure it is up to date.
 
@@ -774,7 +774,7 @@ creates a directory for new user in /home
 
 ![photo](aptupdate.png)
 
-# The apt install command
+## The apt install command
 
 * This is used to install packages.
 
@@ -790,13 +790,13 @@ creates a directory for new user in /home
 
 ![photo](Images/aptrem.png)
 
-# The apt search command
+## The apt search command
 
 * This command can come in handy when you do not know exactly which package to install.
 
 ![photo](Images/aptsearch.png)
 
-# The apt upgrade command
+## The apt upgrade command
 
 * This upgrades installed packages.
 
