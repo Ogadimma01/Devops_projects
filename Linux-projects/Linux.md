@@ -766,13 +766,13 @@ creates a directory for new user in /home
 
 * The apt package manager uses a series of commands which reqiure sudo or root priviledges.
 
-## The apt udsate
+## The apt udaate
 
 * Any time we're using the apt package manager, we need to refresh it and make sure it is up to date.
 
 * We do this by running **sudo apt update**
 
-![photo](aptupdate.png)
+![photo](Images/aptupdate.png)
 
 ## The apt install command
 
