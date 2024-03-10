@@ -760,6 +760,53 @@ creates a directory for new user in /home
 ![photo](Images/userdel.png)
 
 
+## The apt command
+
+* The apt command is a package manager tool.
+
+* The apt package manager uses a series of commands which reqiure sudo or root priviledges.
+
+# The apt upsate
+
+* Any time we're using the apt package manager, we need to refresh it and make sure it is up to date.
+
+* We do this by running **sudo apt update**
+
+![photo](aptupdate.png)
+
+# The apt install command
+
+* This is used to install packages.
+
+*  To install a package run **sudo apt install [package name]**
+
+![photo](Images/aptinstall.png)
+
+* More than one package can be installed in one apt install command.
+
+![photo](Images/aptinstallcomb.png)
+
+* To remove a package run **sudo apt remove [package name]**
+
+![photo](Images/aptrem.png)
+
+# The apt search command
+
+* This command can come in handy when you do not know exactly which package to install.
+
+![photo](Images/aptsearch.png)
+
+# The apt upgrade command
+
+* This upgrades installed packages.
+
+![photo](Images/aptupgrade.png)
+
+
+
+
+
+
 
 
 
