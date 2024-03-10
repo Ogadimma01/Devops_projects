@@ -755,7 +755,7 @@ creates a directory for new user in /home
 
 ![photo](Images/useradd.png)
 
-* T remove a user run **userdel [username]**
+* To remove a user run **userdel [username]**
 
 ![photo](Images/userdel.png)
 
