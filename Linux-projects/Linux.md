@@ -803,6 +803,23 @@ creates a directory for new user in /home
 ![photo](Images/aptupgrade.png)
 
 
+# The nano command
+
+* nano is a simple text editor commonly used by Linux users.
+
+* The simplest way to use nano is to just type **nano** and press ENTER.
+
+![photo](Images/nano1.png)
+
+![photo](Images/nano.png)
+
+* Notice that this returns a blank space with 'new buffer' written on top. This means that we have oppend nano without a filename in mind.
+
+* To edit an existing file use syntax: nano [filename]
+
+![photo](Images/nanosshcon1.png)
+
+![photo](Images/nanosshcon.png)
 
 
 
