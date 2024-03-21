@@ -838,9 +838,19 @@ creates a directory for new user in /home
 ![photo](Images/vich.png)
 
 
-* It operates in two modes namely **INSERT** and **command**.
+* vi operates in two modes namely **INSERT** and **command**.
 
-* iNSERT is used to edit and create a text file
+* iNSERT is used to edit and create a text file. The INSERT mode is entered by selecting letter 'I' on the keyboard after the vi window has been opened.
+
+![photo](Images/vimins.png)
+
+* The command mode is entered by selecting 'escape' from the INSERT mode.
+
+![photo](Images/vimcomm.png)
+
+* To exit vim and get back to the command line, enter the command mode and type in [:q] and hit ENTER.
+
+
 
 
 
