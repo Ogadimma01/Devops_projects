@@ -822,6 +822,26 @@ creates a directory for new user in /home
 ![photo](Images/nanosshcon.png)
 
 
+# The vim commmand
+
+* Vi or vim is a text editor.
+
+* To use vim you either open a blank window by simply typing vi or vim and hitting ENTER. 
+![photo](Images/vi.png)
+
+![photo](Images/vim.png)
+
+* Typing vim follwed by a file name if the file is in your current working directory or typing out the pathway to the file opens the file im the vi editor.
+
+![photo](Images/vich1.png)
+
+![photo](Images/vich.png)
+
+
+* It operates in two modes namely **INSERT** and **command**.
+
+* iNSERT is used to edit and create a text file
+
 
 
 
