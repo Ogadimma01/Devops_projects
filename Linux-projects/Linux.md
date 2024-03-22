@@ -851,6 +851,33 @@ creates a directory for new user in /home
 * To exit vim and get back to the command line, enter the command mode and type in [:q] and hit ENTER.
 
 
+# The alias command
+
+* The alias command essentially allows you to create your own command. You can take a very long command and change it into just a few characters called an alias.
+
+* When the alias is executed, the shell is instructed to print the output of the long command
+
+* You can name an alias whatever you want, even one letter
+
+![photo](Images/aliasl.png)
+
+* To list all the aliases on your system, simply type in [alias] and hit ENTER.
+
+![photo](Images/alias.png)
+
+* You can even use an alias to replace commands that are chained together
+
+
+# The unalias command
+
+* This is used to remove an alias.
+
+![photo](Images/unalias.png)
+
+
+  
+
+
 
 
 
