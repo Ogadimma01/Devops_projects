@@ -901,7 +901,30 @@ su [OPTIONS] [USER [ARGUMENT...]]
 
 ![photo](Images/tux.png)
 
-  
+* If you want to run another shell instead of the one defined in the passwd file, use the -s, --shell option. For example, to switch to root and to run the zsh shell, you would type:
+
+  su -s /usr/bin/zsh
+
+* To preserve the entire environment (HOME, SHELL, USER, and LOGNAME) of the calling user, invoke the command with the -p, --preserve-environment option.
+
+  su -p
+
+* If you want to run a command as the substitute user without starting an interactive shell, use the -c, --command option. For example, to invoke the ps command as root, you would type:
+
+  su -c ps
+
+
+# The htop command
+
+* htop is an excellent utility for monitoring system resources in Linux. It provides a better user experience than the default top command.
+
+* On the command line, the top command is perhaps the goto command for checking the system resource utilization quickly.
+
+![photo](Images/tops.png)
+
+* Using top command apart from viewing the processes could be tricky. And this is where htop tops top. Pun aside, htop is a top-like utility but with a better and user-friendly interface.
+
+![photo](Images/htops.png)
 
 
 
