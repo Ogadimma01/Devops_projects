@@ -875,6 +875,32 @@ creates a directory for new user in /home
 ![photo](Images/unalias.png)
 
 
+# The su command
+
+* The su (short for substitute or switch user) utility allows you to run commands with another user’s privileges, by default the root user.
+
+* Using su is the simplest way to switch to the administrative account in the current login session. This is especially handy when the root user is not allowed to log in to the system through ssh or using the GUI display manager.
+
+* The general syntax for the su command is as follows:
+su [OPTIONS] [USER [ARGUMENT...]]
+
+* When invoked without any option, the default behavior of su is to run an interactive shell as root:
+
+![photo](Images/su.png)
+
+* To confirm that the user is changed, use the whoami command:
+
+![photo](Images/whoami.png)
+
+* The most commonly used option when invoking su is - (-l, --login). This makes the shell a login shell with an environment very similar to a real login and changes the current directory :
+
+![photo](Images/root.png)
+
+* To switch to another user account, pass the user name as an argument to su. For example, to switch to the user tux you would type:
+  su tux
+
+![photo](Images/tux.png)
+
   
 
 
