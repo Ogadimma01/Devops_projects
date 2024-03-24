@@ -927,6 +927,39 @@ su [OPTIONS] [USER [ARGUMENT...]]
 ![photo](Images/htops.png)
 
 
+# The ps (process status)command
+
+* This command is used to list the currently running processes and display information about those processes.
+
+* In it’s simplest form, when used without any option, ps will print four columns of information for minimum two processes running in the current shellalong with the unique process ID (PID), the type of terminal (TTY), the running time (TIME) and the command that lunched the process (CMD).
+  
+![photo](Images/ps.png)
+
+# ps command with options
+
+The **BSD** form
+
+* The a option tells ps to display the processes of all users. Only the processes that not associated with a terminal and processes of group leaders are not shown.
+  
+* u stands for a user-oriented format that provides detailed information about the processes.
+  
+* The x option instructs ps to list the processes without a controlling terminal. Those are mainly processes that are started on boot time and running in the background.
+
+![photo](Images/psaux.png)
+
+* The f option tells ps to display a tree view of parent to child processes:
+
+![photo](Images/psauxf.png)
+
+* In the UNIX form of the ps command -e option instructs ps to display all processes.
+The -f stands for full-format listing, which provides detailed information about the processes.
+
+![photo](Images/psef.png)
+
+* To view only the processes running as a specific user, type the following command, where auxberg is the name of the user:
+
+![photo](Images/psu.png)
+
 
 
 
