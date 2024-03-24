@@ -958,7 +958,7 @@ The -f stands for full-format listing, which provides detailed information about
 
 * To view only the processes running as a specific user, type the following command, where auxberg is the name of the user:
 
-![photo](Images/psu.png)
+![photo](Images/pssu.png)
 
 
 
