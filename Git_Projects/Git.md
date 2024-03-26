@@ -40,3 +40,9 @@
 
 ![photo](Images/merge.png)
 
+
+# Deleting a git branch
+
+* Execute the command 'git branch -d [branch name]
+
+![photo](Images/branch-d.png)
