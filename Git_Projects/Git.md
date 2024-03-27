@@ -46,3 +46,14 @@
 * Execute the command 'git branch -d [branch name]
 
 ![photo](Images/branch-d.png)
+
+
+# Pushing your local git repository to your remote github repository
+
+* To add a remote repository to your local git repository, use the following command:
+
+  git remote add origin <link to your github repo>
+
+![photo](Images/remote.png)
+
+  
