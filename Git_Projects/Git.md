@@ -52,8 +52,14 @@
 
 * To add a remote repository to your local git repository, use the following command:
 
-  git remote add origin <link to your github repo>
+  git remote add origin [link to your github repo]
 
 ![photo](Images/remote.png)
+
+* After commiting all changes in your local repo, push the content to your rmote repo using the below command:
+
+  git push origin [branch]
+
+![photo](Images/gitpush.png)
 
   
