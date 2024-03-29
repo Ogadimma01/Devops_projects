@@ -13,9 +13,9 @@
 
 * Execute the command 'git checkout -b [new branch name]'
 
-*  This command creats the new branch and switches you from the extant branch to the new one.
+*  This command creates the new branch and switches you from the extant branch to the new one.
 
-![photo](Images/branch2.png)
+![photo](Images/brnch2.png)
 
 
 4 # Listing your git branches
