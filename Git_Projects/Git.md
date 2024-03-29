@@ -1,4 +1,4 @@
-1 # Initializing a Git Repository
+1 #Initializing a Git Repository
 
  ![photo](Images/gitinit.png)
 
