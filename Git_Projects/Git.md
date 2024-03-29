@@ -1,15 +1,15 @@
 1 # Initializing a Git Repository
 
-2 ![photo](Images/gitinit.png)
+ ![photo](Images/gitinit.png)
 
 
-3 # Making first commit
+2 # Making first commit
 
 ![photo](Images/gitcommit.png)
 
 * The -m flag is used to provide a commit message. The message concisely explains why the commit was made.
 
-4 # Make your first git branch
+3 # Make your first git branch
 
 * Execute the command 'git checkout -b [new branch name]'
 
@@ -18,21 +18,21 @@
 ![photo](Images/branch2.png)
 
 
-5 # Listing your git branches
+4 # Listing your git branches
 
 * Execute the command 'git branch' to list all the branches in your local git repository.
 
 ![photo](Images/branch.png)
 
 
-6 # Switching to an old branch
+5 # Switching to an old branch
 
 * Execute the command 'git checkout [branch name] to change into an old branch.
 
 ![photo](Images/branch1.png)
 
 
-7 # Merging one branch into another
+6 # Merging one branch into another
 
 * To merge say 'branch1' into barch 'main', first swithch to branch 'main'.
 
@@ -41,14 +41,14 @@
 ![photo](Images/merge.png)
 
 
-8 # Deleting a git branch
+7 # Deleting a git branch
 
 * Execute the command 'git branch -d [branch name]
 
 ![photo](Images/branch-d.png)
 
 
-9 # Pushing your local git repository to your remote github repository
+8 # Pushing your local git repository to your remote github repository
 
 * To add a remote repository to your local git repository, use the following command:
 
@@ -63,7 +63,7 @@
 ![photo](Images/gitpush.png)
 
 
-10 # Cloning Remote Git Rrpository
+9 # Cloning Remote Git Rrpository
 
 * The git clone command is used to create a copy of a specific remote repository or branch within a repository into our local machine.
 
