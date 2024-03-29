@@ -62,4 +62,11 @@
 
 ![photo](Images/gitpush.png)
 
+
+# Cloning Remote Git Rrpository
+
+* The git clone command is used to create a copy of a specific remote repository or branch within a repository into our local machine.
+
+* The command to use is git clone [url of remote rpository]
+
   
