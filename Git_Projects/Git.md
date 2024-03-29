@@ -69,4 +69,6 @@
 
 * The command to use is git clone [url of remote rpository]
 
+![photo](Images/clone.png)
+
   
