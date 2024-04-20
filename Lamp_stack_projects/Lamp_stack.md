@@ -2,5 +2,5 @@
 
 * Launching an EC2 instance
 
-![photo](Images/EC2.ping)
+![photo](Images/EC2.png)
 
