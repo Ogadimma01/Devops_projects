@@ -17,6 +17,15 @@
 
 ![photo](Images/apacheinst.png)
 
+
+* Verify thhat Apache2 is running as a service on the OS
+
 ![photo](Images/apache2.png)
+
+
+* To enable traffic to web server, add a rule to EC2 connection to open inbound connection through port 80
+
+![photo](Images/port80.png)
+
 
 
