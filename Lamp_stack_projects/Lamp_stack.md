@@ -43,4 +43,17 @@
 ![photo](Images/curlip1.png)
 
 
+* To test response of Apache HTTP server to a internet request:
+
+  Open a web browser and search for the following url: http://<public ip address>
+
+
+![photo](Images/webpage.png)
+
+If the above web page is returned, then the server has correctly installed and accessible through the firewall.
+
+
+  
+
+
 
