@@ -15,6 +15,8 @@
 
 # Installing Apache and Updating the Firewall
 
+![photo](Images/apacheupd.png)
+
 ![photo](Images/apacheinst.png)
 
 
