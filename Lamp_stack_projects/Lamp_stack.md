@@ -30,6 +30,7 @@
 ![photo](Images/port80.png)
 
 
+
 * To access server locally in the ubuntu shell run
 
 1. using the DNS name
