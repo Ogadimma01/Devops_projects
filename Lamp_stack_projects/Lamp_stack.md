@@ -30,4 +30,16 @@
 ![photo](Images/port80.png)
 
 
+* To access server locally in the ubuntu shell run
+
+1 using the DNS name
+
+![photo](Images/curllocal.png)
+
+
+2 using the public IP address
+
+![photo](Images/curlip.png)
+
+
 
