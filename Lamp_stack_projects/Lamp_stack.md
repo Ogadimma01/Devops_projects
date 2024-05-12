@@ -35,12 +35,12 @@
 
 1. using the DNS name
 
-![photo](Images/curllocal.png)
+![photo](Images/curllocal1.png)
 
 
 2. using the public IP address
 
-![photo](Images/curlip.png)
+![photo](Images/curlip1.png)
 
 
 
