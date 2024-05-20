@@ -53,6 +53,18 @@
 If the above web page is returned, then the server has correctly installed and accessible through the firewall.
 
 
+# Installing Mysql
+
+![photo](Images/mysql.png)
+
+
+* To log into mysql:
+
+
+![photo](Images/mysql2.png)
+
+
+
   
 
 
