@@ -30,7 +30,6 @@
 ![photo](Images/port80.png)
 
 
-
 * To access server locally in the ubuntu shell run
 
 1. using the DNS name
@@ -58,10 +57,16 @@ If the above web page is returned, then the server has correctly installed and a
 ![photo](Images/mysql.png)
 
 
-* To log into mysql:
+* To log into mysql server  as administrative database root user.
 
 
 ![photo](Images/mysql2.png)
+
+
+* Running interactive script
+
+
+![photo](Images/Mysqlsec.png)
 
 
 
