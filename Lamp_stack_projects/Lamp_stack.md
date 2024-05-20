@@ -69,6 +69,16 @@ If the above web page is returned, then the server has correctly installed and a
 ![photo](Images/Mysqlsec.png)
 
 
+* Logging into Mysql using changed root user password.
+
+
+![photo](Images/mysql-p.png)
+
+
+* Exiting mysql.
+
+
+![photo](Images/mysqlexit.png)
 
   
 
