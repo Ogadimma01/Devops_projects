@@ -80,6 +80,23 @@ If the above web page is returned, then the server has correctly installed and a
 
 ![photo](Images/mysqlexit.png)
 
+
+# Installing PHP
+
+* PHP is available on Ubuntu Linux, but unlike Python (which comes pre-installed), must be manually installed.
+
+* Before installing PHP you should install Apache (or a preferred web server) and a database service such as MySQL
+
+* In addition to PHP, you'll need PHP-mysql, a PHP module that allows communication between PHP and mysql-based databases and libapache-mod-php
+  to enable apache handle php files. Core PHP packages will automatically be installed as dependencies.
+
+
+![photo](Images/phpinst1.png)
+
+
+![photo](Images/phpinst2.png)
+
+
   
 
 
