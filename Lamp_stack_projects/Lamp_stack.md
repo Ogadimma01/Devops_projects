@@ -30,6 +30,9 @@
 ![photo](Images/port80.png)
 
 
+* Once installation is complete,confirm PHP version
+
+
 * To access server locally in the ubuntu shell run
 
 1. using the DNS name
@@ -81,13 +84,13 @@ If the above web page is returned, then the server has correctly installed and a
 ![photo](Images/mysqlexit.png)
 
 
-# Installing PHP
+# Installing php
 
-* PHP is available on Ubuntu Linux, but unlike Python (which comes pre-installed), must be manually installed.
+* php is available on Ubuntu Linux, but unlike Python (which comes pre-installed), must be manually installed.
 
-* Before installing PHP you should install Apache (or a preferred web server) and a database service such as MySQL
+* Before installing php you should install Apache (or a preferred web server) and a database service such as MySQL
 
-* In addition to PHP, you'll need PHP-mysql, a PHP module that allows communication between PHP and mysql-based databases and libapache-mod-php
+* In addition to php, you'll need php-mysql, a php module that allows communication between php and mysql-based databases and libapache-mod-php
   to enable apache handle php files. Core PHP packages will automatically be installed as dependencies.
 
 
@@ -95,6 +98,14 @@ If the above web page is returned, then the server has correctly installed and a
 
 
 ![photo](Images/phpinst2.png)
+
+
+* Once installation is complete, confirm php version <php -v>
+
+
+![photo](Images/php-v.png)
+
+
 
 
   
